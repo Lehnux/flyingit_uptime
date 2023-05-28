@@ -4,8 +4,8 @@
     "url": "https://flyingit.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/flyingit.rocks.ico",
     "slug": "flying-it-website",
-    "status": "up",
-    "uptime": "91.80%",
+    "status": "down",
+    "uptime": "91.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 871,
     "timeYear": 919,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-04-11": 61,
       "2022-06-21": 38
     }
@@ -37,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-28": 73,
+      "2023-05-28": 871,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -421,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-28": 73,
+      "2023-05-28": 871,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -805,7 +806,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-28": 73,
+      "2023-05-28": 871,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
@@ -1189,7 +1190,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-28": 73,
+      "2023-05-28": 871,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 1440,
